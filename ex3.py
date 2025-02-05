@@ -13,8 +13,8 @@ def reverse_string(x,y):
     return u
 
 
-m = str(input("rnter a string : ")) # taking input from user (string)
-n = str(input("rnter a char : ")) # taking input from user (char)
+m = str(input("enter a string : ")) # taking input from user (string)
+n = str(input("enter a char : ")) # taking input from user (char)
 print(reverse_string(m,n)) # calling the func 
 
 
